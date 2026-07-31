@@ -109,7 +109,7 @@ export default function Home() {
 
   // Stopwatch Logic
   useEffect(() => {
-    let interval: NodeJS.Timeout;
+    let interval;
     if (isTimerRunning) {
       interval = setInterval(() => setTimerSeconds((prev) => prev + 1), 1000);
     }
