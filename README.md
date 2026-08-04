@@ -2,6 +2,8 @@
 
 > **Turn your everyday tasks and learning goals into an interactive, gamified questing experience.**
 
+> **Live Demo:** [https://questify-vert.vercel.app/](https://questify-vert.vercel.app/)
+
 Questify is a modern, full-stack web application designed to boost productivity and motivation by transforming daily habits, tasks, and learning tracks into engaging quests with rewards, progress tracking, and interactive UI elements.
 
 ---
@@ -30,18 +32,8 @@ Questify is a modern, full-stack web application designed to boost productivity 
 
 ---
 
-##  Getting Started
+## 🌐 Deployment & Live Demo
 
-Follow these instructions to set up and run Questify locally on your system.
+This application is deployed and hosted live on **Vercel**. 
 
-### **Prerequisites**
-* [Node.js](https://nodejs.org/) (v16.0 or higher)
-* [Git](https://git-scm.com/) installed on your machine
-* [MongoDB](https://www.mongodb.com/) (Local or Cloud Atlas instance)
-
-### **Installation & Setup**
-
-1. **Clone the Repository**
-   ```bash
-   git clone [https://github.com/gauriii10/Questify.git](https://github.com/gauriii10/Questify.git)
-   cd Questify
+* **Live Application:** [questify-your-app.vercel.app](https://questify-your-app.vercel.app)
